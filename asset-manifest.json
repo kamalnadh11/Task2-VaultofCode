@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Task-VaultofCode/static/css/main.e296c895.css",
+    "main.js": "/Task-VaultofCode/static/js/main.c19c60dd.js",
+    "static/js/787.aad65a53.chunk.js": "/Task-VaultofCode/static/js/787.aad65a53.chunk.js",
+    "static/media/a10.jpg": "/Task-VaultofCode/static/media/a10.ab69fcaac30d2ff0058b.jpg",
+    "static/media/a13.jpg": "/Task-VaultofCode/static/media/a13.e3ec96ce409b4e637e24.jpg",
+    "static/media/a12.jpg": "/Task-VaultofCode/static/media/a12.e13fb57d91abd5836f79.jpg",
+    "static/media/a8.jpg": "/Task-VaultofCode/static/media/a8.be8c8e486344165090c6.jpg",
+    "static/media/a3.jpg": "/Task-VaultofCode/static/media/a3.2ec615091c5d6fde9811.jpg",
+    "static/media/a6.jpg": "/Task-VaultofCode/static/media/a6.a4290be9e1432a921363.jpg",
+    "static/media/a11.jpg": "/Task-VaultofCode/static/media/a11.c981e41cd0a002f17534.jpg",
+    "static/media/a9.jpg": "/Task-VaultofCode/static/media/a9.9efaf623412ceb5aee83.jpg",
+    "static/media/a5.jpg": "/Task-VaultofCode/static/media/a5.6ac94c519e8182fef00e.jpg",
+    "static/media/a2.jpg": "/Task-VaultofCode/static/media/a2.a6eff9e096d46088c257.jpg",
+    "static/media/a7.jpg": "/Task-VaultofCode/static/media/a7.8cf7999bd8523dd5b009.jpg",
+    "static/media/a4.jpg": "/Task-VaultofCode/static/media/a4.615c9b3f91235f7d2458.jpg",
+    "static/media/logo.svg": "/Task-VaultofCode/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/Task-VaultofCode/index.html",
+    "main.e296c895.css.map": "/Task-VaultofCode/static/css/main.e296c895.css.map",
+    "main.c19c60dd.js.map": "/Task-VaultofCode/static/js/main.c19c60dd.js.map",
+    "787.aad65a53.chunk.js.map": "/Task-VaultofCode/static/js/787.aad65a53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e296c895.css",
+    "static/js/main.c19c60dd.js"
+  ]
+}
