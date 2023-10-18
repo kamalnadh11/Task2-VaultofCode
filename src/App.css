@@ -1,38 +1,75 @@
+/* Global styles */
+body {
+  background-color: lightsalmon;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  /* Light gray background */
+}
+
+/* Main container styles */
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 20px;
 }
 
-.App-link {
-  color: #61dafb;
+/* Slider component styles */
+.slider {
+  display: flex;
+  width: 1500px;
+  max-width: 1500px;
+  height: 1400px;
+  border: 1px solid black;
+  border-radius: 10px;
+  overflow:hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  background-color:#007bff ; /* White background for the slider */
+  position: relative;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.slider-navigation {
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  padding: 20px;
+  font-size: 1.5rem;
+  color: black;
+  background-color: #007bff; /* Blue navigation symbols color */
+}
+
+.slider-image {
+  width: 1450px;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.5s ease;
+}
+
+/* Card component styles */
+.card {
+  width: 300px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+  background-color: #ffffff; /* White background for the cards */
+  display: inline-block; /* Display cards in a row */
+}
+
+.card h2 {
+  font-size: 1.5rem;
+  color: #007bff; /* Blue title color */
+}
+
+.card p {
+  font-size: 1rem;
+}
+
+.card a {
+  text-decoration: none;
+  color: #007bff; /* Blue link color */
 }

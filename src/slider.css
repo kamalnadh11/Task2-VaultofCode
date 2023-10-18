@@ -1,0 +1,9 @@
+/* Define CSS for the slider component */
+.slider {
+    width: 1920px;
+    height: 650px; /* Full viewport height */
+    position: relative;
+    overflow: hidden;
+}
+
+
